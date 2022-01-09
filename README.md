@@ -38,6 +38,6 @@
 - 实现sqlite3数据库记录
 
 ### Project
-- A cross-platform GUI tool for real-time preview and control of compute-intensive image registration process.
-- See [registrationViewer](https://github.com/ljjliujunjie123/registrationViewer) for its source.
+- 实时预览和控制图像配准过程的跨平台GUI实用工具。
+- 源代码 [registrationViewer](https://github.com/ljjliujunjie123/registrationViewer)
 
