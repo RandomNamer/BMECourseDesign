@@ -38,5 +38,8 @@ Use DCMTK API to write a PACS system.
 - Realize several kinds of processing to the image, the image is reversed, the image is rotated at any angle, and the image is automatically converted to JPEG compression.
 - Implement sqlite3 database records
 
+### Project
+- A cross-platform GUI tool for real-time preview and control of compute-intensive image registration process.
+- See [registrationViewer](https://github.com/ljjliujunjie123/registrationViewer) for its source.
 
 
