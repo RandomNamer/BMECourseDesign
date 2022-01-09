@@ -37,5 +37,7 @@
 - 实现对图像的几种处理，图像翻转、图像任意角度旋转、图像自动转JPEG压缩。
 - 实现sqlite3数据库记录
 
-
+### Project
+- A cross-platform GUI tool for real-time preview and control of compute-intensive image registration process.
+- See [registrationViewer](https://github.com/ljjliujunjie123/registrationViewer) for its source.
 
